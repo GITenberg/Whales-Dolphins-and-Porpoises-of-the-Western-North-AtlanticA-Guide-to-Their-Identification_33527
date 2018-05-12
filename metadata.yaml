@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '36455'
     url: http://www.gutenberg.org/2009/agents/36455
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33527#Whales-Dolphins-and-Porpoises-of-the-Western-North-AtlanticA-Guide-to-Their-Identification
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
