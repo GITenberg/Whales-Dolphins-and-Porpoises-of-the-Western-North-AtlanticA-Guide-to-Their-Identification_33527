@@ -1,0 +1,42 @@
+_repo: Whales-Dolphins-and-Porpoises-of-the-Western-North-AtlanticA-Guide-to-Their-Identification_33527
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Caldwell, David Keller
+    birthdate: 1928
+    gutenberg_agent_id: '36454'
+    url: http://www.gutenberg.org/2009/agents/36454
+  - agent_name: Leatherwood, Stephen
+    aliases:
+    - Leatherwood, James Stephen
+    - Leatherwood, J. S. (James Stephen)
+    gutenberg_agent_id: '36453'
+    url: http://www.gutenberg.org/2009/agents/36453
+  - agent_name: Winn, Howard Elliott
+    birthdate: 1926
+    gutenberg_agent_id: '36455'
+    url: http://www.gutenberg.org/2009/agents/36455
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33527'
+  lccn: '76603272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mammals -- North Atlantic Ocean'
+- !lcc 'QL'
+- !lcsh 'Cetacea -- North Atlantic Ocean -- Identification'
+title: 'Whales, Dolphins, and Porpoises of the Western North Atlantic
+
+  A Guide to Their Identification'
+url: http://www.gutenberg.org/ebooks/33527
